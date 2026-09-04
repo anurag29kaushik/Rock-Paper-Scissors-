@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-
-I made this project using HTML, CSS and JAVASCRIPT 
+A simple Rock Paper Scissors game built using HTML, CSS and JAVASCRIPT.
+
